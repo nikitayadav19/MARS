@@ -28,6 +28,7 @@ A beautiful, animated HTML landing page built from scratch using only **HTML** a
 ## 📸 Screenshots
 
 ![Mars](images/sky.jpg)
+![Mars](images/mars.jpg)
 
 ---
 
